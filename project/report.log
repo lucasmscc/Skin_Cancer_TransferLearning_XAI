@@ -3,3 +3,7 @@
 2026-04-25 13:43:48,643 - matplotlib.image - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-8.077178e-09..0.8117647].
 2026-04-25 13:43:48,665 - matplotlib.image - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-6.001479e-09..0.81960785].
 2026-04-25 13:43:48,699 - matplotlib.image - WARNING - Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for integers). Got range [-2.7074337e-10..1.0].
+2026-06-12 13:17:07,860 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 5, 'p': 2}
+2026-06-12 13:20:28,744 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19512195121951215, best pos: [1 1 0 ... 0 1 0]
+2026-06-12 13:54:33,933 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9, 'k': 5, 'p': 2}
+2026-06-12 13:57:31,941 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.19512195121951215, best pos: [1 1 0 ... 0 1 0]
